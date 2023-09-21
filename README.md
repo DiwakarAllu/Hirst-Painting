@@ -5,3 +5,8 @@ Damien Hirst's Spot Paintings consist of perfectly rounded, glossy spots painted
 ## Technique:
 
 Hirst's earliest Spot Paintings, created in 1986, featured spots placed next to each other, creating colorful patterns. He enjoyed this technique and produced around 90 spot paintings using it. Each spot is hand-painted, has the same color as the next spot, and is acrylic colored. Hirst found joy in creating this structured, colorful art.
+
+## References
+
+- [Damien Hirst's Spot Paintings](https://publicdelivery.org/damien-hirst-spot-paintings/#Damien_Hirst8217s_Spot_Paintings): Explore the art of Damien Hirst and his Spot Paintings.
+- [Python Turtle Documentation](https://docs.python.org/3/library/turtle.html): Official documentation for the Python Turtle graphics library.
